@@ -7,7 +7,7 @@
 
     /* Modal background */
     .modal {
-      display: none; /* hidden by default */
+      display: block;
       position: fixed;
       top: 0;
       left: 0;
